@@ -1,0 +1,1 @@
+Fundamentos de HMTL. Padrões e recomendações da W3C, semântica e acessibilidade. Aplicação de estilos com CSS. Padrões de nomenclaturas para organizar o CSS. Técnicas de design responsivo. Tipos de dados, funções, objetos e estruturas de controle de fluxo em JavaScript. Manipulação de DOM (Document Object Model). JSON (JavaScript Object Notation). Requisições assíncronas. 
